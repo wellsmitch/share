@@ -4,5 +4,5 @@ bower_components
 .sass-cache
 npm-debug.log
 .idea
-dist/
+/dist
 .vscode
